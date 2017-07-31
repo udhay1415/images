@@ -1,12 +1,24 @@
-# Interesting User Curated Image Albums 🎨
+<h1 align="center"> Interesting User Curated Image Albums 🎨 </h1>
+
+<div align="center">
+<a href="https://www.patreon.com/learnanything">
+		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
+	</a>
+	<a href="https://github.com/learn-anything/images/blob/master/LICENSE">
+		<img src="https://img.shields.io/pypi/l/pipenv.svg">
+	</a>
+</div>
+
+<h1 align="center"> Description 📕</h1>
 
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting user curated albums one can explore to learn new things and discover new insights or just appreciate the beauty. 🔭
 
-# Adding your own images 
+
+<h1 align="center"> Adding your own images  </h1>
 
 Each album lives on Imgur. You can either extend any of the currently available albums or add your own. 
 
-# Albums
+<h1 align="center"> Albums </h1>
 
 - [heavy mind](http://imgur.com/a/om6BB)
 
