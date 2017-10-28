@@ -1,5 +1,6 @@
 # Interesting User Curated Image Albums 🎨 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
+## Description 📕
 Here is a curated list of all the interesting user curated albums one can explore to learn new things and discover new insights or just appreciate the beauty. 🔭
 
 ## Adding your own images 
