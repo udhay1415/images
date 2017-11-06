@@ -1,10 +1,8 @@
-# Interesting User Curated Image Albums 🎨 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+# Image Albums [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
-## Description 📕
-Here is a curated list of all the interesting user curated albums one can explore to learn new things and discover new insights or just appreciate the beauty. 
+This is a curated list of all the interesting user curated albums one can explore.
 
-### Adding your own images 
-You can extend this list to add interesting curated albums of your own.
+Pull requests are welcome. Thank you. 💜
 
 ## Albums
 - [heavy mind](http://imgur.com/a/om6BB)
@@ -35,3 +33,6 @@ You can extend this list to add interesting curated albums of your own.
 - [psychedelic](http://imgur.com/a/urG7X)
 - [art - James R. Eads](http://imgur.com/a/Aao8R)
 - [replications](http://imgur.com/a/ep7CH)
+
+## Contribute 
+If you found an album that you really like or perhaps made yourself, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
