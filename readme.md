@@ -35,4 +35,4 @@ Pull requests are welcome. Thank you. 💜
 - [replications](http://imgur.com/a/ep7CH)
 
 ## Contribute 
-If you found an album that you really like or perhaps made yourself, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
+If you found an album that you really like or perhaps made, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
