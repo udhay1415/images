@@ -2,8 +2,6 @@
 
 This is a curated list of all the interesting user curated albums one can explore.
 
-Pull requests are welcome. Thank you. 💜
-
 ## Albums
 - [heavy mind](http://imgur.com/a/om6BB)
 - [humans](https://imgur.com/a/p9FC3)
