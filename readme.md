@@ -1,36 +1,40 @@
-# Image Albums [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-
-This is a curated list of all the interesting user curated albums one can explore.
+# Interesting Image Albums [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+[Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md) before contributing.*
 
 ## Albums
-- [heavy mind](http://imgur.com/a/om6BB)
-- [humans](https://imgur.com/a/p9FC3)
-- [setups](https://imgur.com/a/BinVf)
-- [minimalism](http://imgur.com/a/IZPbP)
-- [nature](https://imgur.com/a/56pFc)
-- [space](http://imgur.com/a/uymmM)
-- [animals](http://imgur.com/a/yNpGf)
-- [math](http://imgur.com/a/hmK2C)
-- [physics](http://imgur.com/a/Reo8S)
-- [funny](http://imgur.com/a/NAZ9l)
-- [art](http://imgur.com/a/3m5wf)
-- [unix](http://imgur.com/a/7osPZ)
-- [wallpapers](http://imgur.com/a/SOiPJ)
-- [earth](https://imgur.com/a/4U5P7)
-- [cats](https://imgur.com/a/TgL0x)
-- [dogs](http://imgur.com/a/CExqu)
-- [geometric](http://imgur.com/a/7ThWP)
-- [photos - artistic](https://imgur.com/a/jAEYj)
-- [funny - o’rly covers](http://imgur.com/a/Ykcyb)
-- [snowflakes under a microscope](http://imgur.com/a/4rE1H)
+- [Heavy mind](http://imgur.com/a/om6BB)
+- [Humans](https://imgur.com/a/p9FC3)
+- [Setups](https://imgur.com/a/BinVf)
+- [Minimalism](http://imgur.com/a/IZPbP)
+- [Nature](https://imgur.com/a/56pFc)
+- [Space](http://imgur.com/a/uymmM)
+- [Animals](http://imgur.com/a/yNpGf)
+- [Math](http://imgur.com/a/hmK2C)
+- [Physics](http://imgur.com/a/Reo8S)
+- [Funny](http://imgur.com/a/NAZ9l)
+- [Art](http://imgur.com/a/3m5wf)
+- [Unix](http://imgur.com/a/7osPZ)
+- [Wallpapers](http://imgur.com/a/SOiPJ)
+- [Earth](https://imgur.com/a/4U5P7)
+- [Cats](https://imgur.com/a/TgL0x)
+- [Dogs](http://imgur.com/a/CExqu)
+- [Geometric](http://imgur.com/a/7ThWP)
+- [Artistic photos](https://imgur.com/a/jAEYj)
+- [Funny O’rly covers](http://imgur.com/a/Ykcyb)
+- [Snowflakes under a microscope](http://imgur.com/a/4rE1H)
 - [404 pages](http://imgur.com/a/NJ2X7)
-- [photos - beautiful](https://imgur.com/a/vA2Ly)
-- [xkcd - favourite](http://imgur.com/a/LK364)
-- [funny - programming](http://imgur.com/a/hb4nX)
-- [art - psychedelic](http://imgur.com/a/9yOpt)
-- [psychedelic](http://imgur.com/a/urG7X)
-- [art - James R. Eads](http://imgur.com/a/Aao8R)
-- [replications](http://imgur.com/a/ep7CH)
+- [Beautiful Photos](https://imgur.com/a/vA2Ly)
+- [XKCD](http://imgur.com/a/LK364)
+- [Programming jokes](http://imgur.com/a/hb4nX)
+- [Psychedelic art](http://imgur.com/a/9yOpt)
+- [Psychedelic images](http://imgur.com/a/urG7X)
+- [James R. Eads art](http://imgur.com/a/Aao8R)
+- [Replications](http://imgur.com/a/ep7CH)
 
-## Contribute 
-If you found an album that you really like or have made, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
+## More lists 📝
+For more lists like this, see [here](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists).
+
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Learn Anything](https://learn-anything.xyz) has waived all copyright and related or neighboring rights to this work.
